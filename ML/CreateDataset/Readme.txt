@@ -1,0 +1,1 @@
+"../input/timeseries/finalData.csv" olan yerleri finalData.csv olarak düzeltmek gerekebilir.Ben Kaggle kullandığım için bu şekilde oluşturmam gerekti. 
